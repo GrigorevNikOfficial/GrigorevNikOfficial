@@ -1,4 +1,5 @@
-## Hi there 👋
+## Nothing to write about me yet
+<!-- ## Hi there 👋 -->
 
 <!--
 **GrigorevNikOfficial/GrigorevNikOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
